@@ -39,7 +39,7 @@ A cleaned, well formated dataset:</b>
 
 ***
 
-**<p>Data Analyzation</p>**
+**<p>Data Analysis</p>**
 
 Unique tags: ~4k</b>
 
