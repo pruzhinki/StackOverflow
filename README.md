@@ -64,8 +64,8 @@ Most of the questions has three tags
 **<p>Modeling</p>**
 
 * Machine Learning Models:
-  * SGDClassifier
-  * SGDClassifier
+  * MultinomialNB
+  * LogisticRegression
   * LinearSVC
 </b>
 * Deep Learning Models(Future Work):
