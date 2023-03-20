@@ -87,7 +87,7 @@ $$ F1\ Score = 2 \times \frac{(Precision \times Recall)}{(Precision + Recall)} $
 * Macro F1 Score: Calculate F1 for each label, and find their unweighted mean. This does not take imbalance into account.<br>
 * Hamming Loss: The Hamming loss is the fraction of labels that are incorrectly predicted.<br>
 
-|       | SGD| LR|SVC|BERT| StackOverflowBERT|
+|       | MultinomialNB| LR|SVC|BERT| StackOverflowBERT|
 | :----:| :----: | :----: |:----: |:----: |:----: |
 | F1 Micro| **64.83%** | 62.86%  | 64.34% | / | / |
 | F1 Macro| **62.00%** | 53.82%  | 60.94% | / | / |
